@@ -1,0 +1,36 @@
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Checkout.resources
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Main.resources
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Sales.resources
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.csproj.GenerateResource.cache
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.AssemblyInfoInputs.cache
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.AssemblyInfo.cs
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.csproj.CoreCompileInputs.cache
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.exe
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.deps.json
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.runtimeconfig.json
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.dll
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.pdb
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.dll
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\refint\JimenaPastranaProject.dll
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.pdb
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.genruntimeconfig.cache
+C:\Users\xpasj012\source\repos\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\ref\JimenaPastranaProject.dll
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Checkout.resources
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Main.resources
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.Sales.resources
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.csproj.GenerateResource.cache
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.AssemblyInfoInputs.cache
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.AssemblyInfo.cs
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.csproj.CoreCompileInputs.cache
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.dll
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\refint\JimenaPastranaProject.dll
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.pdb
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.exe
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.deps.json
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.runtimeconfig.json
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.dll
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\bin\Debug\net6.0-windows\JimenaPastranaProject.pdb
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\JimenaPastranaProject.genruntimeconfig.cache
+C:\Users\varin\OneDrive\Documents\JIMENA\repos - kopie\JimenaPastranaProject\JimenaPastranaProject\obj\Debug\net6.0-windows\ref\JimenaPastranaProject.dll

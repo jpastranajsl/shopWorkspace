@@ -1,0 +1,124 @@
+0001,The Prince,129
+0002,The Picture of Dorian Gray,199
+0003,The Stranger,200
+0004,Romeo and Juliet,300
+0005,Pride and Prejudice,250
+0006,To Kill a Mockingbird,250
+0007,The Great Gatsby,300
+0008,One Hundred Years of Solitude,300
+0009,In Cold Blood,150
+0010,Wide Sargasso Sea,320
+0011,Brave New World,210
+0012,I Capture The Castle,130
+0013,Jane Eyre,200
+0014,Crime and Punishment,300
+0015,The Secret History,250
+0016,The Call of the Wild,150
+0017,The Chrysalids,100
+0018,Persuasion,200
+0019,Moby-Dick,250
+0020,To the Lighthouse,280
+0021,The Death of the Heart,170
+0022,Frankenstein,200
+0023,Nineteen Eighty-Four,150
+0024,The Catcher in the Rye,220
+0025,The Odyssey,260
+0026,A Tale of Two Cities,280
+0027,The Brothers Karamazov,320
+0028,The Scarlet Letter,180
+0029,Anna Karenina,300
+0030,Great Expectations,250
+0031,The Count of Monte Cristo,350
+0032,Wuthering Heights,200
+0033,Les Misérables,330
+0034,The Hunchback of Notre-Dame,190
+0035,The Grapes of Wrath,270
+0036,The Canterbury Tales,220
+0037,One Flew Over the Cuckoo's Nest,240
+0038,War and Peace,380
+0039,Heart of Darkness,200
+0040,The Three Musketeers,260
+0041,The Lord of the Rings,400
+0042,The Adventures of Sherlock Holmes,180
+0043,The Hound of the Baskervilles,210
+0044,Alice's Adventures in Wonderland,150
+0045,The Wind in the Willows,170
+0046,For Whom the Bell Tolls,280
+0047,The Iliad,250
+0048,The Sound and the Fury,220
+0049,Don Quixote,320
+0050,The Canterbury Tales,230
+0051,The Jungle,190
+0052,The Divine Comedy,250
+0053,The Importance of Being Earnest,180
+0054,The Metamorphosis,160
+0055,The War of the Worlds,200
+0056,The Portrait of a Lady,220
+0057,The Age of Innocence,240
+0058,As I Lay Dying,210
+0059,The Sun Also Rises,230
+0060,The Arabian Nights,280
+0061,The Trial,190
+0062,Of Mice and Men,200
+0063,East of Eden,260
+0064,The Old Man and the Sea,170
+0065,The Joy Luck Club,220
+0066,Sense and Sensibility,210
+0067,The Outsiders,180
+0068,The Bell Jar,200
+0069,The Color Purple,230
+0070,Slaughterhouse-Five,240
+0071,The Handmaid's Tale,250
+0072,The Fountainhead,270
+0073,A Clockwork Orange,200
+0074,The Grapes of Wrath,260
+0075,The Red Badge of Courage,180
+0076,The Adventures of Tom Sawyer,160
+0077,The War of the Worlds,220
+0078,The Wizard of Oz,150
+0079,A Room with a View,190
+0080,The Jungle Book,170
+0081,The Wind in the Willows,170
+0082,For Whom the Bell Tolls,280
+0083,The Iliad,250
+0084,The Sound and the Fury,220
+0085,Don Quixote,320
+0086,The Canterbury Tales,230
+0087,The Divine Comedy,250
+0088,The Catcher in the Rye,220
+0089,The Odyssey,260
+0090,A Tale of Two Cities,280
+0091,The Scarlet Letter,180
+0092,Anna Karenina,300
+0093,Great Expectations,250
+0094,The Count of Monte Cristo,350
+0095,Wuthering Heights,200
+0096,Les Misérables,330
+0097,The Hunchback of Notre-Dame,190
+0098,The Grapes of Wrath,270
+0099,One Flew Over the Cuckoo's Nest,240
+0100,War and Peace,380
+0101,Heart of Darkness,200
+0102,The Three Musketeers,260
+0103,The Lord of the Rings,400
+0104,The Adventures of Sherlock Holmes,180
+0105,The Hound of the Baskervilles,210
+0106,Alice's Adventures in Wonderland,150
+0107,The Wind in the Willows,170
+0108,The Importance of Being Earnest,180
+0109,The Metamorphosis,160
+0110,The War of the Worlds,200
+0111,The Portrait of a Lady,220
+0112,The Age of Innocence,240
+0113,As I Lay Dying,210
+0114,The Sun Also Rises,230
+0115,The Arabian Nights,280
+0116,The Trial,190
+0117,Of Mice and Men,200
+0118,East of Eden,260
+0119,The Old Man and the Sea,170
+0120,The Joy Luck Club,220
+0121,Sense and Sensibility,210
+0122,The Outsiders,180
+0123,The Bell Jar,200
+0124,The Color Purple
